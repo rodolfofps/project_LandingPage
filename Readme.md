@@ -1,4 +1,4 @@
-## Landing Page Rodolfo (HTML, CSS, Bootstrap)![HTML](img\img-1.png) ![CSS](img/img-2.png) ![Bootstrap](img/img-3.png)
+## Landing Page Rodolfo
 
 
 ![Landing Page](img/imgLandingPage.JPG)
